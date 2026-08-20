@@ -71,12 +71,7 @@ This project implements a **Moore Finite State Machine (FSM)** that governs the 
 - **Multiple beverage selection** (nested FSM for different coffee types/prices)
 - **Real sensor/actuator integration** — coin acceptors, servo-driven dispensing, PWM control
 
-## Team
 
-- Bhumika Padmane (Roll No. 23)
-- Rohit Prasad (Roll No. 31)
-- Siddhi Rane (Roll No. 34)
-- Deep Shah (Roll No. 41)
 
 ## References
 
