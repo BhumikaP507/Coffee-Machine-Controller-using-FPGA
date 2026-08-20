@@ -1,8 +1,6 @@
 # ☕ Coffee Machine Controller using FPGA
 
-A Verilog HDL implementation of a coffee vending machine controller, designed and deployed on a **Xilinx Artix-7 (Basys 3)** FPGA board. Built as a TE Semester-VI Mini Project (2025–26) for the Department of Electronics & Telecommunication Engineering, St. Francis Institute of Technology, Mumbai.
-
-> Guide: Dr. Ravindra Chaudhari
+A Verilog HDL implementation of a coffee vending machine controller, designed and deployed on a **Xilinx Artix-7 (Basys 3)** FPGA board.
 
 ---
 
